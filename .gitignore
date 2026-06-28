@@ -1,0 +1,10 @@
+data/raw/
+data/cropped/
+data/patches/
+data/training_pairs/
+*.tif
+*.npy
+__pycache__/
+*.pyc
+.venv/
+venv/
