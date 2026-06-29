@@ -16,7 +16,7 @@ cloud-removal/
     ├── extract_patches.py
     ├── pick_aoi.py
     ├── visualize_cloud_mask.py
-    └──model.py
+    └── model.py
 ```
 ## Dataset
 
