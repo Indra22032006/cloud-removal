@@ -15,7 +15,8 @@ cloud-removal/
     ├── debug_cloud_threshold.py
     ├── extract_patches.py
     ├── pick_aoi.py
-    └── visualize_cloud_mask.py
+    ├── visualize_cloud_mask.py
+    └──model.py
 ```
 ## Dataset
 
